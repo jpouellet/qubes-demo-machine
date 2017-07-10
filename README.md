@@ -8,7 +8,7 @@ Setting up the machines exactly the way I like them to be before lending them ou
 
 ## Goals
 
-My goals are to:
+My goals with this effort are:
 - To hopefully save myself time in the long run
 - To get more experience with salt
 - To potentially inspire others to also set up "Qubes demo machines" and help grow the community :)
